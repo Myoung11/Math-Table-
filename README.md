@@ -3,6 +3,7 @@
 Will output a math table that shows a number and its square and cube.
 # Example Output
 (Output is not properly spaced in description. It is properly spaced when run in the program.)
+
 Number  Square  Cube                                                                                     
 0       0       0                                                                                        
 1       1       1                                                                                        
